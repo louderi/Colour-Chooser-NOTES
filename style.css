@@ -1,0 +1,13 @@
+td {
+    width: 200px;
+    height: 200px;
+    align-content: center;
+}
+
+.smallCell{
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+    align-content: center;
+}
+
